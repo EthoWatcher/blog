@@ -1,0 +1,8 @@
+mkdocs-material 
+mkdocstrings
+mkdocstrings-python
+mkdocs-exclude 
+mkdocs-jupyter 
+mkdocs-autolinks-plugin
+mkdocs-macros-plugin
+mkdocs-redirects

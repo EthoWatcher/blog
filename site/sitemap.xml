@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://simplificando.tech/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://simplificando.tech/blog/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://simplificando.tech/ml/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://simplificando.tech/ml/categorica/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://simplificando.tech/overrides/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://simplificando.tech/tags/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+</urlset>
